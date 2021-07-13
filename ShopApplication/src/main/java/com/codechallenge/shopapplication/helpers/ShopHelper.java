@@ -90,14 +90,6 @@ public class ShopHelper {
             return size / 1;
         }
         return ShopUtil.formatTwoDecimalPlaces(size / value);
-
-      /*  Map<String, Long> productCount =
-                productList.stream()
-                        .collect(Collectors.groupingBy(Product::getProductId , Collectors.counting()));
-        productCount.forEach((p, count) -> {
-            System.out.println(p + ":" + count);
-        });
-*/
     }
 
     /**
