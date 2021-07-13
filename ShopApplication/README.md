@@ -1,4 +1,4 @@
-# Shipt-Coding-Challenge-Shopping-Application
+#Shopping-Application
 
 This Java application will allow users to retrieve amount of products sold per day, week, or month, retrieve orders for specific customer,
 and create orders.
