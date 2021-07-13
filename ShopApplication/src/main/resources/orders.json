@@ -1,0 +1,188 @@
+{
+  "orderList": [
+    {
+      "orderId": "0023",
+      "customerId": "0034362",
+      "date": "2021-06-12",
+      "status": "DELIVERED",
+      "products": [
+        {
+          "amount": 5.6,
+          "productId": "0012",
+          "category": "PRODUCE"
+        },
+        {
+          "amount": 3.6,
+          "productId": "0013",
+          "category": "POULTRY"
+        },
+        {
+          "amount": 4.4,
+          "productId": "0014",
+          "category": "DAIRY"
+        }
+      ]
+    },
+    {
+      "orderId": "0033",
+      "customerId": "0034349",
+      "date": "2021-06-10",
+      "status": "DELIVERED",
+      "products": [
+        {
+          "amount": 1.6,
+          "productId": "0016",
+          "category": "PRODUCE"
+        },
+        {
+          "amount": 8.2,
+          "productId": "0017",
+          "category": "POULTRY"
+        },
+        {
+          "amount": 4.4,
+          "productId": "0019",
+          "category": "DAIRY"
+        }
+      ]
+    },
+    {
+      "orderId": "0053",
+      "customerId": "0034229",
+      "date": "2021-06-15",
+      "status": "READY",
+      "products": [
+        {
+          "amount": 1.3,
+          "productId": "0026",
+          "category": "PRODUCE"
+        },
+        {
+          "amount": 7.2,
+          "productId": "0027",
+          "category": "POULTRY"
+        },
+        {
+          "amount": 4.4,
+          "productId": "0029",
+          "category": "DAIRY"
+        }
+      ]
+    },
+    {
+      "orderId": "0052",
+      "customerId": "0034229",
+      "date": "2021-06-14",
+      "status": "READY",
+      "products": [
+        {
+          "amount": 1.5,
+          "productId": "0027",
+          "category": "SEAFOOD"
+        },
+        {
+          "amount": 7.2,
+          "productId": "0022",
+          "category": "CONDIMENTS"
+        },
+        {
+          "amount": 4.4,
+          "productId": "0014",
+          "category": "DAIRY"
+        }
+      ]
+    },
+    {
+      "orderId": "0052",
+      "customerId": "0034229",
+      "date": "2021-06-11",
+      "status": "DELIVERED",
+      "products": [
+        {
+          "amount": 1.3,
+          "productId": "0077",
+          "category": "BREAD"
+        },
+        {
+          "amount": 3.2,
+          "productId": "0062",
+          "category": "CONDIMENTS"
+        },
+        {
+          "amount": 9.4,
+          "productId": "0094",
+          "category": "DAIRY"
+        }
+      ]
+    },
+    {
+      "orderId": "0034362",
+      "customerId": "0023",
+      "date": "2021-05-12",
+      "status": "DELIVERED",
+      "products": [
+        {
+          "amount": 5.6,
+          "productId": "0057",
+          "category": "PRODUCE"
+        },
+        {
+          "amount": 3.6,
+          "productId": "0096",
+          "category": "POULTRY"
+        },
+        {
+          "amount": 4.4,
+          "productId": "0069",
+          "category": "DAIRY"
+        }
+      ]
+    },
+    {
+      "orderId": "0034366",
+      "customerId": "0027",
+      "date": "2021-04-12",
+      "status": "DELIVERED",
+      "products": [
+        {
+          "amount": 5.6,
+          "productId": "0059",
+          "category": "PRODUCE"
+        },
+        {
+          "amount": 3.7,
+          "productId": "0092",
+          "category": "POULTRY"
+        },
+        {
+          "amount": 4.9,
+          "productId": "00201",
+          "category": "DAIRY"
+        }
+      ]
+    },
+    {
+      "orderId": "0034367",
+      "customerId": "0035",
+      "date": "2021-06-15",
+      "status": "READY",
+      "products": [
+        {
+          "amount": 5.6,
+          "productId": "00597",
+          "category": "PRODUCE"
+        },
+        {
+          "amount": 3.7,
+          "productId": "00922",
+          "category": "CLEANING"
+        },
+        {
+          "amount": 4.9,
+          "productId": "00203",
+          "category": "SPICES"
+        }
+      ]
+    }
+  ]
+}
